@@ -1,0 +1,15 @@
+.card {
+  display: inline-block;
+}
+
+.card .card-header {
+  height: 45px;
+}
+
+.card .card-body {
+  height: 10px;
+}
+
+.card img {
+  width: 100%;
+}
